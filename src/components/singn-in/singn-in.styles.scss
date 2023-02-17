@@ -1,0 +1,11 @@
+sign-in {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  .title {
+    margin: 10px 0;
+  }
+}
