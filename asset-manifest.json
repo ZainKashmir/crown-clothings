@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crown-clothings/static/css/main.ae90489b.css",
+    "main.js": "/crown-clothings/static/js/main.73f4fcdf.js",
+    "static/media/shopping-bag.svg": "/crown-clothings/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/logo.svg": "/crown-clothings/static/media/logo.e1627cf10f39cde6ac849fe84c3a98e2.svg",
+    "index.html": "/crown-clothings/index.html",
+    "main.ae90489b.css.map": "/crown-clothings/static/css/main.ae90489b.css.map",
+    "main.73f4fcdf.js.map": "/crown-clothings/static/js/main.73f4fcdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae90489b.css",
+    "static/js/main.73f4fcdf.js"
+  ]
+}
