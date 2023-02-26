@@ -40,6 +40,7 @@ class App extends Component {
       <div>
         <Navbar />
         <Routes>
+        <Route path="/crown-clothings" element={<Homepage />} />
           <Route path="/shop" element={<Shop />} />
           <Route path="/contact" element={<Authentication />} />
           <Route exact path="/" element={<Homepage />} />
